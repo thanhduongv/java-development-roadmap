@@ -5,6 +5,7 @@
 ## 2. If you like this roadmap, please give it a star. Thanks!
 ## 3. Full  Roadmap
 You can download the latest OWSAP document with this link [https://github.com/OWASP/ASVS](https://github.com/OWASP/ASVS)
+or use version in this repo
 
 ![JavaRoadmap-Map 1 (15).png](Java%20Roadmap/JavaRoadmap-Map_1_(15).png)
 
